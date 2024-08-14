@@ -1,3 +1,4 @@
+
 ![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/). ![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
@@ -14,9 +15,10 @@ This project uses lot of stuff as:
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+=======
+ ![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
 ## Getting Started
-
 First, run the development server:
 
 ```bash
@@ -30,7 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Commands
-
+=======
 `dev`: runs your application on `localhost:3000`
 `build`: creates the production build version
 `start`: starts a simple server with the build production code
